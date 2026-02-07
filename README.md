@@ -1,16 +1,21 @@
-## Hi there 👋
+# Justin Moody
 
-<!--
-**Justin-Moody/Justin-Moody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entry-level IT Support professional with a cybersecurity foundation.  
+Focused on help desk operations, system administration fundamentals, and troubleshooting.
 
-Here are some ideas to get you started:
+## Featured Project
+🔹 **IT Support Labs Portfolio**  
+https://github.com/Justin-Moody/IT-Support-Labs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hands-on labs simulating real-world IT support tasks including ticketing workflows, Active Directory user management, network troubleshooting, and system monitoring.
+
+## Skills
+- Windows • Linux • Active Directory • VMware • RDP
+- TCP/IP • DNS • Firewalls • SIEM (Splunk)
+- Python • PowerShell • IT Troubleshooting
+
+## Certifications
+- AWS Certified Cloud Practitioner (2022)
+- Google IT Support Certificate (2025)
+- Network+ (In Progress)
+- Security+ (In Progress)
