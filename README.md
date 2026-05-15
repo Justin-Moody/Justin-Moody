@@ -1,10 +1,16 @@
 # Justin Moody
 
-## IT Support Specialist | Cybersecurity Graduate | System Administration & Networking
+## IT Support Specialist | Future IAM Analyst | Cybersecurity Graduate
 
-Cybersecurity professional with Bachelor's and Master's degrees in Cybersecurity and hands-on experience in IT support, system administration, networking, and security operations.
+Cybersecurity professional with Bachelor's and Master's degrees in Cybersecurity, focused on building a strong foundation in IT support, system administration, security operations, and identity & access management (IAM).
 
-Experienced in troubleshooting hardware, software, user access, and network-related issues through internship experience and self-built enterprise-style lab environments. Currently focused on expanding practical knowledge in Active Directory, Windows Server administration, PowerShell, networking, virtualization, and IT operations.
+Currently pursuing entry-level IT Support / Help Desk opportunities to strengthen real-world troubleshooting, technical support, and enterprise IT operations experience before transitioning into IAM and identity security roles.
+
+Actively studying for:
+- CompTIA Security+
+- Microsoft SC-300: Identity and Access Administrator
+
+Hands-on experience through internships, self-built enterprise-style home labs, and practical projects involving Active Directory, Windows Server, PowerShell, virtualization, access management, and security operations.
 
 ---
 
@@ -16,21 +22,31 @@ Experienced in troubleshooting hardware, software, user access, and network-rela
 - Active Directory Users & Computers
 - Group Policy Fundamentals
 - User & Permission Management
+- Password Resets & Account Unlocks
 - Remote Desktop (RDP)
 - Ticketing Systems
-- System Administration
 - Hardware & Software Troubleshooting
+- IT Support & Help Desk Operations
 
-## Networking & Security
-- TCP/IP
-- DNS
-- DHCP
-- Firewalls
-- IDS/IPS
+## Identity & Access Management (IAM)
+- Identity & Access Fundamentals
+- Active Directory Administration
+- Role-Based Access Control (RBAC)
+- Least Privilege Principles
+- Authentication & Authorization Concepts
+- MFA Fundamentals
+- User Lifecycle Management
+- Access Provisioning & Deprovisioning
+- SC-300 Learning Labs
+
+## Security Operations
 - SIEM Fundamentals
+- IDS/IPS Fundamentals
 - Endpoint Security
 - Vulnerability Management
-- Network Troubleshooting
+- Security Monitoring Fundamentals
+- Access Control Concepts
+- Security Best Practices
 - Wireshark Fundamentals
 
 ## Tools & Technologies
@@ -42,7 +58,8 @@ Experienced in troubleshooting hardware, software, user access, and network-rela
 - Linux
 - Git & GitHub
 - Technical Documentation
-- Packet Tracer
+- Active Directory
+- Windows Server
 
 ---
 
@@ -52,11 +69,11 @@ Experienced in troubleshooting hardware, software, user access, and network-rela
 **May 2023 – Aug 2023**
 
 - Supported IT and security operations across 100+ endpoints
-- Assisted with system monitoring, access issues, and configuration changes
-- Participated in network troubleshooting and monitoring using SIEM, IDS/IPS, firewalls, and WAF tools
+- Assisted with account access issues, user support, and configuration changes
+- Participated in security monitoring using SIEM, IDS/IPS, firewall, and WAF technologies
 - Reviewed system baseline configurations using STIG and SCAP guidelines
 - Assisted with hardware/software change management activities
-- Collaborated with IT team lead on documentation, issue tracking, and weekly operations
+- Collaborated with IT team lead on documentation, issue tracking, and operational support tasks
 
 ---
 
@@ -64,7 +81,7 @@ Experienced in troubleshooting hardware, software, user access, and network-rela
 
 ## Virtual Help Desk Home Lab
 
-Hands-on virtual IT lab simulating enterprise IT support environments.
+Hands-on virtual IT lab simulating enterprise IT support and system administration environments.
 
 ### Topics Covered
 - Active Directory Administration
@@ -73,38 +90,34 @@ Hands-on virtual IT lab simulating enterprise IT support environments.
 - Group Policy Management
 - Remote Desktop Support
 - Help Desk Ticket Simulations
+- User Account Management
 - PowerShell Fundamentals
-- Network Troubleshooting
+- System Troubleshooting
 
 ### Technologies
 Windows Server • Active Directory • PowerShell • DNS • DHCP • VMware/VirtualBox
 
-Repository:
-https://github.com/Justin-Moody/Virtual-helpdesk-home-lab
+### Repository
+🔗 https://github.com/Justin-Moody/Virtual-helpdesk-home-lab
 
 ---
 
-## Network+ Labs
+## IAM & Security Learning Labs
 
-Hands-on networking labs aligned with CompTIA Network+ objectives.
+Practical labs focused on identity management, authentication, access control, and security administration concepts aligned with Security+ and SC-300 studies.
 
 ### Topics Covered
-- TCP/IP
-- Subnetting
-- VLANs
-- DNS
-- DHCP
-- Routing & Switching
-- OSI Model
-- Firewall Fundamentals
-- Network Troubleshooting
-- Wireshark Packet Analysis
+- Active Directory User Management
+- MFA Concepts
+- RBAC Fundamentals
+- Access Provisioning
+- Authentication Methods
+- Least Privilege Administration
+- User Lifecycle Processes
+- IAM Security Concepts
 
 ### Technologies
-Packet Tracer • Wireshark • TCP/IP • Networking Fundamentals
-
-Repository:
-https://github.com/Justin-Moody/networkplus-labs
+Active Directory • Windows Server • PowerShell • Microsoft Security Concepts
 
 ---
 
@@ -117,26 +130,39 @@ https://github.com/Justin-Moody/networkplus-labs
 ## Certifications
 - AWS Certified Cloud Practitioner
 - Google IT Support Professional Certificate
-- CompTIA Network+ (In Progress)
+- CompTIA Security+ (In Progress)
+- Microsoft SC-300: Identity and Access Administrator (In Progress)
 
 ---
 
-# Current Projects
+# Current Focus
 
-- Building a Virtual Active Directory Home Lab
-- Simulating Help Desk Ticket Workflows
-- Practicing Windows Server Administration
-- Developing PowerShell Automation Skills
-- Expanding Networking Labs for Network+
-- Creating Technical Documentation for IT Operations
+- Building enterprise-style IT support and IAM home labs
+- Studying for Security+ and SC-300 certifications
+- Expanding Active Directory and Windows Server skills
+- Practicing PowerShell automation
+- Strengthening identity and access management knowledge
+- Documenting hands-on technical projects on GitHub
+- Preparing for IT Support / Help Desk opportunities
 
 ---
 
-# Career Interests
+# Career Goals
 
-- IT Support
-- System Administration
-- Network Administration
-- Infrastructure Support
-- Cybersecurity Operations
-- SOC / Blue Team Operations
+### Short-Term
+- IT Support Specialist
+- Help Desk Technician
+- Desktop Support Technician
+
+### Long-Term
+- IAM Analyst
+- Identity & Access Management Engineer
+- Security Administrator
+- Cybersecurity Analyst
+
+---
+
+# Connect With Me
+
+- LinkedIn: www.linkedin.com/in/justin-moody-233561395
+- GitHub: https://github.com/Justin-Moody
